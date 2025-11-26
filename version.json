@@ -3,8 +3,8 @@
   "releaseDate": "2025-01-27",
   "downloadUrl": "https://github.com/ABCXX9X/Atlasinfo-Manager/releases/download/v2.0.0/",
   "files": [
-    "Atlasinfo Manager.exe",
-    "Atlasinfo Manager.exe.config",
+    "Atlasinfo_Manager.exe",
+    "Atlasinfo_Manager.exe.config",
     "Updater.exe"
   ],
   "changelog": "🆕 NEUE VERSION - 2.0.0\n\n✨ Features:\n• Visuelle Map-Darstellung mit Drag & Drop\n• Erweiterte Kollisionserkennung\n• Zoom & Navigation\n• Modernes helles Design\n• Professionelle Benutzeroberfläche\n• Automatische Update-Prüfung\n\n🔧 Verbesserungen:\n• Bessere Performance\n• Verbesserte Fehlerbehandlung\n• Optimierte Benutzeroberfläche"
